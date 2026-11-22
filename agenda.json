@@ -1,11 +1,94 @@
 {
   "posts": [
     {
-      "id": "ejemplo-barato",
-      "enabled": false,
+      "id": "RAM",
+      "video": "AByB_Host_RAM.mp4",
+      "caption": "¿Qué es la RAM de tu servidor? 🧠 Es la memoria de trabajo: si te queda corta, el servidor se puede trabar o cerrar. Contanos qué querés alojar y te ayudamos a elegir. abybhost.online #AByBHost #RAM #HostingArgentino #ServidoresDeJuegos #Gamers",
+      "instagram": "2026-11-22T18:00:00-03:00"
+    },
+    {
+      "id": "incluye",
+      "video": "AByB_Host_incluye.mp4",
+      "caption": "¿Qué incluye tu hosting? 🤔 RAM, CPU y slots definidos en la ficha de cada servicio. Soporte y contratación por WhatsApp o Discord. Activación manual, generalmente en menos de una hora hábil tras confirmar el pago. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Gamers #Argentina",
+      "instagram": "2026-11-23T10:00:00-03:00"
+    },
+    {
+      "id": "contratar",
+      "video": "AByB_Host_contratar.mp4",
+      "caption": "¿Cómo se contrata un server? 🚀 Son 3 pasos: consultanos por WhatsApp o Discord, confirmá por escrito precio, recursos y forma de pago, y pagás por transferencia. Activación manual, generalmente en menos de una hora hábil tras confirmar el pago. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Gamers #Argentina",
+      "instagram": "2026-11-23T18:00:00-03:00"
+    },
+    {
+      "id": "primer_server",
+      "video": "AByB_Host_primer_server.mp4",
+      "caption": "¿Tener tu propio server es difícil? 🎮 No hay que programar: elegís tu juego, pagás semanal o mensual y a jugar. Te ayudamos por WhatsApp o Discord. abybhost.online #AByBHost #TuPrimerServer #HostingArgentino #ServidoresDeJuegos #Gamers",
+      "instagram": "2026-11-24T10:00:00-03:00"
+    },
+    {
+      "id": "argentino",
+      "video": "AByB_Host_argentino.mp4",
+      "caption": "Argentino, bueno y barato 🧉 Hosting hecho para Argentina, pensado para comunidades argentinas y jugadores de LATAM. Desde $600 ARS por mes. abybhost.online #AByBHost #HostingArgentino #HostingBarato #ServidoresDeJuegos #Argentina",
+      "instagram": "2026-11-24T18:00:00-03:00"
+    },
+    {
+      "id": "antes_despues",
+      "video": "AByB_Host_antes_despues.mp4",
+      "caption": "Sin server, nadie juega 🎮 Con server, la comunidad juega. Elegís tu servicio y lo activamos: activación manual, generalmente en menos de una hora hábil tras confirmar el pago. Consultanos por WhatsApp o Discord. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Gamers #ComunidadDiscord",
+      "instagram": "2026-11-25T10:00:00-03:00"
+    },
+    {
+      "id": "contratar_corto",
+      "video": "AByB_Host_contratar_corto.mp4",
+      "caption": "¿Cómo contratar tu server? 🚀 Contratás por WhatsApp o Discord, rápido y para Argentina. Mandáselo a tu amigo gamer. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Gamers #Argentina",
+      "instagram": "2026-11-25T18:00:00-03:00"
+    },
+    {
+      "id": "comunidad",
+      "video": "AByB_Host_comunidad.mp4",
+      "caption": "¿Tenés una comunidad de Discord? Dale su propio server 🎮 Alojamos SCP: Secret Laboratory, CS 1.6, CS:Source, Minecraft y bots de Discord. Panel Pterodactyl, contratás por WhatsApp o Discord. Desde $600 ARS por mes. abybhost.online #AByBHost #ComunidadDiscord #ServidoresDeJuegos #HostingArgentino #BotsDeDiscord",
+      "instagram": "2026-11-26T10:00:00-03:00"
+    },
+    {
+      "id": "mitos",
+      "video": "AByB_Host_mitos.mp4",
+      "caption": "Mitos del hosting barato 🧐 Atención directa por WhatsApp o Discord, condiciones reales en la web y precios claros. Si algo falla por nuestra cuenta, hay cobertura comercial de 48 horas. abybhost.online #AByBHost #HostingBarato #HostingArgentino #ServidoresDeJuegos #Mitos",
+      "instagram": "2026-11-26T18:00:00-03:00"
+    },
+    {
+      "id": "checklist",
+      "video": "AByB_Host_checklist.mp4",
+      "caption": "Antes de contratar un hosting, mirá esto 👀 Un checklist rápido para elegir bien. Consultanos por WhatsApp o Discord. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Gamers #Argentina",
+      "instagram": "2026-11-27T10:00:00-03:00"
+    },
+    {
+      "id": "cpu",
+      "video": "AByB_Host_cpu.mp4",
+      "caption": "¿Sabés qué es la CPU compartida? ⚙️ Antes de contratar un hosting, fijate cómo se reparte el procesador. Consultanos por WhatsApp o Discord. abybhost.online #AByBHost #CPU #HostingArgentino #ServidoresDeJuegos #Gamers",
+      "instagram": "2026-11-27T18:00:00-03:00"
+    },
+    {
+      "id": "incluye_corto",
+      "video": "AByB_Host_incluye_corto.mp4",
+      "caption": "¿Qué incluye tu hosting? 🤔 Preguntanos qué incluye cada servicio por WhatsApp o Discord. Mandáselo a tu amigo gamer. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Gamers #Argentina",
+      "instagram": "2026-11-28T10:00:00-03:00"
+    },
+    {
+      "id": "pc_vs_host",
+      "video": "AByB_Host_pc_vs_host.mp4",
+      "caption": "¿Hosteás en tu PC? 🖥️ Tu PC vs un host: infraestructura en Argentina, panel Pterodactyl y soporte por WhatsApp o Discord. Sin promesas exageradas: no garantizamos 99,9%. abybhost.online #AByBHost #HostingArgentino #ServidoresDeJuegos #Pterodactyl #Gamers",
+      "instagram": "2026-11-28T18:00:00-03:00"
+    },
+    {
+      "id": "barato",
       "video": "AByB_Host_barato.mp4",
-      "caption": "¿Pagás por cosas que no usás en tu hosting? 💸 Desde $600 ARS por mes. abybhost.online #AByBHost #HostingBarato #HostingArgentino #ServidoresDeJuegos #Argentina",
-      "instagram": "2026-12-01T10:00:00-03:00"
+      "caption": "¿Pagás por cosas que no usás en tu hosting? 💸 Barato de verdad es precio claro y sin extras. Desde $600 ARS por mes, atención por WhatsApp o Discord. abybhost.online #AByBHost #HostingBarato #HostingArgentino #ServidoresDeJuegos #Argentina",
+      "instagram": "2026-11-29T10:00:00-03:00"
+    },
+    {
+      "id": "servicios",
+      "video": "AByB_Host_servicios.mp4",
+      "caption": "¿Qué querés alojar? Elegí tu servicio 🎮 Servidores de juego (SCP: SL, CS 1.6, CS:Source), Minecraft, bots de Discord (Node.js y Python) o un servicio personalizado. Desde $600 ARS por mes. abybhost.online #AByBHost #HostingArgentino #Minecraft #BotsDeDiscord #ServidoresDeJuegos",
+      "instagram": "2026-11-29T18:00:00-03:00"
     }
   ]
 }
